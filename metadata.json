@@ -1,0 +1,6 @@
+{
+  "name": "Agriculture & Farming Market",
+  "description": "An online marketplace for fresh organic fruits, seasonal vegetables, seeds, farming equipment, and direct-from-farm custom harvest plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
